@@ -7,6 +7,15 @@ You can install this from NexusMods here: [Elsa's Farm](https://www.nexusmods.co
 
 ## Changes
 
+### 1.2.0
+
+* Removed armor crafting bench from lower level.
+* Added armor crafting bench outside of house.
+* Added sharpening wheel outside of house.
+* Added forge (anvil) outside of house.
+* Added smelter outside of house.
+* Added tanning rack outside of house.
+
 ### 1.1.0
 * Added a Shrine to Dibella and a necklace of Dibella.
 * Added a rug near door with boots.
